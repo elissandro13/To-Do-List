@@ -5,7 +5,7 @@ A simple list of activits.
 
 Follow the link bellow:
 
-https://elissandro13.github.io/ToDoList/
+https://elissandro13.github.io/To-Do-List/
 
 # What I Learned
 
